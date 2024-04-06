@@ -1464,7 +1464,7 @@
 "@modules/faq@file:./modules/faq":
   version "1.0.0"
 
-"@modules/maps@file:./modules/maps/":
+"@modules/maps@file:./modules/maps":
   version "1.0.0"
 
 "@modules/social-feed@file:./modules/social-feed":
