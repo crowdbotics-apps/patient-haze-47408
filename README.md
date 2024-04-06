@@ -60,6 +60,8 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [react-native-2fa](modules/2fa)
 - [django-calendly](backend/modules)
+- [django-disqus](backend/modules)
+- [social-feed]()
 
 # Getting started: Frontend
 
